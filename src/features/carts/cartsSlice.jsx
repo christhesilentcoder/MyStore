@@ -337,4 +337,4 @@ export default cartsSlice.reducer
 
 
         // remember this decrement
-        // const index = state.cartsItems.findIndex(item => item.id === action.payload.cart.id);
+        // const index = state.cartsItems.findIndex(item => item.id === action.payload.cart.id); 
